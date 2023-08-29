@@ -1,2 +1,4 @@
 Realização da atividade
 Adicionando uma linha a introdução na nova branch
+
+Informações adicionais conforme o ecercício 06 da 'Revisão Prática 2'

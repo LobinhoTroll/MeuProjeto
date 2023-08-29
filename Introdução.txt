@@ -1,2 +1,5 @@
 Realização da atividade
-Adicionando uma linha a introdução na nova branch
+Adicionando uma linha a introdução na nova branch / Alterando para dar conflito.
+
+
+Informações adicionais conforme o ecercício 06 da 'Revisão Prática 2'
